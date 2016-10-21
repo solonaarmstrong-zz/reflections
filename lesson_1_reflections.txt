@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I saw the word "spacr" in one of the changed lines and thought it should either be "space" or "spacer". I assumed "space" (space bar) because she was attempting to change the key associations for the game.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I've experienced the frustration of making several changes and having to revert back, but not wanting to erase all of the other ones. Seeing the history of a file would speed this process up by avoiding the need to redo the wanted changes after undoing the unwanted change.
+
+    Instead of having to take the time to redo changes, reverting back to an old version would speed up this process.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually committing would allow me to commit when I know it's a good idea. But automatic commits might save me if I've forgotten to commit and need to revert. Automatic committing would likely commit too many versions.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiple files contain several different changes and would allow me to use pieces of all of them. Separate docs would make things more readable. (This is my guess, I actually have no idea).
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    These commands would show which changes were made so I can compare them and find problem areas. Log displays the commits in reverse chronological order, so I’ve learned.
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would definitely feel more comfortable experimenting because I could always checkout a previous version and undo mistakes.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Submitting assignments, becoming more a part of the Git community (I have had Git for several months, but still feel shaky with it), using it for my future projects.
+
+
