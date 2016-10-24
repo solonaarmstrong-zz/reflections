@@ -22,7 +22,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    If you are collaborating, it's a good way to track remote changes.
+    If I am collaborating, it's a good way to track remote changes.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
@@ -32,4 +32,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    If I am changing something significant, trying out a new feature, or experimenting with something, it's helpful to keep a working copy on master and work on a branch. That way, if I want to be able to revert or to share the working copy, master will be intact. 
